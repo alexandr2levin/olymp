@@ -1,4 +1,3 @@
-import sys
 
 
 def find_most_suitable_present(presents_coast, score):
